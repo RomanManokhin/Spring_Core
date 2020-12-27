@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotationScope_Value_PostConstruct_PreDestroy" />
+        <module name="FirstStep" />
+        <module name="noAnnotationOnlyJavaCode" />
+        <module name="springapp3_annotation" />
+        <module name="annotationAutowired" />
+        <module name="springapp2_xml" />
+        <module name="JavaConfigurationSpringWithoutAnnotationAutowiredAndComponent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AnnotationPlusJavaCode" target="1.7" />
+      <module name="noAnnotationOnlyJavaHardCod" target="8" />
+      <module name="springapp1" target="1.7" />
+      <module name="springapp3" target="1.7" />
+      <module name="springapp3_annotation@Component" target="1.7" />
+      <module name="springapp4_annotation@Autowired" target="1.7" />
+      <module name="untitled" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

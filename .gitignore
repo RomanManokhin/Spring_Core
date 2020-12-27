@@ -1,0 +1,10 @@
+# Project exclude paths
+/annotationAutowired/target/
+/AnnotationPlusJavaCode/target/
+/annotationScope_Value_PostConstruct_PreDestroy/target/
+/JavaConfigurationSpringWithoutAnnotationAutowiredAndComponent/target/
+/out/
+/springapp1/target/
+/springapp2_xml/target/
+/springapp3_annotation@Component/target/
+/target/
